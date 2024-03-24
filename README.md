@@ -1,6 +1,7 @@
 # food_delivery_app1
 
 A new Flutter project.
+This branch for creating the  food delivry app required for Flutter training.
 
 ## Getting Started
 
