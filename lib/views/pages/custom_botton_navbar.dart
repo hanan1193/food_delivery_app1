@@ -59,8 +59,8 @@ class _MyWidgetState extends State<CustomBottomNavbar> {
             label: 'Home',
           ),
           NavigationDestination(
-            selectedIcon: Icon(Icons.favorite),//ملونة
-            icon:Icon(Icons.favorite_border),//مش ملونة
+            selectedIcon: Icon(Icons.favorite),
+            icon:Icon(Icons.favorite_border),
             label: 'Favorites',
           ),
           NavigationDestination(
