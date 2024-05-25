@@ -36,7 +36,7 @@ class _MyWidgetState extends State<CustomBottomNavbar> {
                 ),
                 const SizedBox(width: 4,),
                 Text(
-                'Giza,Egypt',
+                'Jinen,Palestine',
                 style: Theme.of(context).textTheme.bodyLarge,
                 ),
                 ],
